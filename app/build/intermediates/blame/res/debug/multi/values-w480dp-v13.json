@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/jpluo/EmbeddedSystem/NearbyRestaurants6E6/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w480dp-v13/values-w480dp-v13.xml",
+        "outputFile": "X:\\Koulu\\EmbeddedSystems\\Beacon-and-Eggs\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w480dp-v13\\values-w480dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 112
                 },
                 "from": {
-                    "file": "/home/jpluo/.android/build-cache/877477236416b5f1099577e1003553ed7a9180e5/output/res/values-w480dp/values-w480dp.xml",
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\6664a53894a8be1481b14965ade4480ee39e82e3\\output\\res\\values-w480dp\\values-w480dp.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 184
                 },
                 "from": {
-                    "file": "/home/jpluo/.android/build-cache/877477236416b5f1099577e1003553ed7a9180e5/output/res/values-w480dp/values-w480dp.xml",
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\6664a53894a8be1481b14965ade4480ee39e82e3\\output\\res\\values-w480dp\\values-w480dp.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
